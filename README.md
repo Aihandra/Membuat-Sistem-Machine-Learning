@@ -1,4 +1,4 @@
-# Proyek Akhir: Sistem Machine Learning untuk Prediksi Status Mahasiswa
+# Membuat Sistem Machine Learning
 
 Selamat datang di repository proyek akhir saya! Proyek ini mencakup beberapa tahapan penting dalam membangun sistem machine learning secara utuh, termasuk eksperimen dataset, pembangunan model, pembuatan CI/CD pipeline, dan sistem monitoring & logging.
 
